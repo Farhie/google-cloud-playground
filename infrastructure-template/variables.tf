@@ -3,3 +3,5 @@ variable "subnet_cidrs" {
 }
 
 variable "environment" {}
+
+variable "region" {}
