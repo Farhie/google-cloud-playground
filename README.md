@@ -8,6 +8,9 @@
 - Go to the service account, create a key and download as json
 - Store json file in `~/.google_cloud/account.json`
 
+## GCP Offerings
+- Spanner: [see the readme](spanner/Spanner.md)
+
 ## To Run
 - Plan: `./plan.sh PROJECT_ID us-central1 development`
 - Apply: `./apply.sh PROJECT_ID us-central1 development`
